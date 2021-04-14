@@ -1,0 +1,18 @@
+d:\users\iburanov\documents\visual studio 2015\Projects\Chat\Chat\bin\Debug\Chat.exe.config
+d:\users\iburanov\documents\visual studio 2015\Projects\Chat\Chat\bin\Debug\Chat.exe
+d:\users\iburanov\documents\visual studio 2015\Projects\Chat\Chat\bin\Debug\Chat.pdb
+d:\users\iburanov\documents\visual studio 2015\Projects\Chat\Chat\obj\Debug\ChatServer.csprojResolveAssemblyReference.cache
+d:\users\iburanov\documents\visual studio 2015\Projects\Chat\Chat\obj\Debug\Chat.exe
+d:\users\iburanov\documents\visual studio 2015\Projects\Chat\Chat\obj\Debug\Chat.pdb
+M:\Chat\Chat\bin\Debug\Chat.exe.config
+M:\Chat\Chat\obj\Debug\Chat.exe
+M:\Chat\Chat\obj\Debug\Chat.pdb
+M:\Chat\Chat\bin\Debug\Chat.exe
+M:\Chat\Chat\bin\Debug\Chat.pdb
+M:\Chat\Chat\obj\Debug\ChatServer.csprojResolveAssemblyReference.cache
+D:\Users\pupil\Desktop\123\Chat\Chat\bin\Debug\Chat.exe.config
+D:\Users\pupil\Desktop\123\Chat\Chat\obj\Debug\Chat.exe
+D:\Users\pupil\Desktop\123\Chat\Chat\obj\Debug\Chat.pdb
+D:\Users\pupil\Desktop\123\Chat\Chat\bin\Debug\Chat.exe
+D:\Users\pupil\Desktop\123\Chat\Chat\bin\Debug\Chat.pdb
+D:\Users\pupil\Desktop\123\Chat\Chat\obj\Debug\ChatServer.csprojResolveAssemblyReference.cache

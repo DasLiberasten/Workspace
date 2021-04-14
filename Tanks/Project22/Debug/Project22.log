@@ -1,0 +1,107 @@
+﻿  Player.cpp
+c:\users\zhukov_na\desktop\курсачище\project22\level.h(36): warning C4309: 'initializing': truncation of constant value
+c:\users\zhukov_na\desktop\курсачище\project22\level.h(40): warning C4309: 'initializing': truncation of constant value
+c:\users\zhukov_na\desktop\курсачище\project22\level.h(131): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\zhukov_na\desktop\курсачище\project22\level.h(131): warning C4309: 'initializing': truncation of constant value
+c:\users\zhukov_na\desktop\курсачище\project22\level.h(137): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\zhukov_na\desktop\курсачище\project22\level.h(137): warning C4309: 'initializing': truncation of constant value
+c:\users\zhukov_na\desktop\курсачище\project22\level.h(143): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\zhukov_na\desktop\курсачище\project22\level.h(143): warning C4309: 'initializing': truncation of constant value
+  Enemy.cpp
+c:\users\zhukov_na\desktop\курсачище\project22\level.h(36): warning C4309: 'initializing': truncation of constant value
+c:\users\zhukov_na\desktop\курсачище\project22\level.h(40): warning C4309: 'initializing': truncation of constant value
+c:\users\zhukov_na\desktop\курсачище\project22\level.h(131): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\zhukov_na\desktop\курсачище\project22\level.h(131): warning C4309: 'initializing': truncation of constant value
+c:\users\zhukov_na\desktop\курсачище\project22\level.h(137): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\zhukov_na\desktop\курсачище\project22\level.h(137): warning C4309: 'initializing': truncation of constant value
+c:\users\zhukov_na\desktop\курсачище\project22\level.h(143): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\zhukov_na\desktop\курсачище\project22\level.h(143): warning C4309: 'initializing': truncation of constant value
+  tank.cpp
+c:\users\zhukov_na\desktop\курсачище\project22\level.h(36): warning C4309: 'initializing': truncation of constant value
+c:\users\zhukov_na\desktop\курсачище\project22\level.h(40): warning C4309: 'initializing': truncation of constant value
+c:\users\zhukov_na\desktop\курсачище\project22\level.h(131): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\zhukov_na\desktop\курсачище\project22\level.h(131): warning C4309: 'initializing': truncation of constant value
+c:\users\zhukov_na\desktop\курсачище\project22\level.h(137): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\zhukov_na\desktop\курсачище\project22\level.h(137): warning C4309: 'initializing': truncation of constant value
+c:\users\zhukov_na\desktop\курсачище\project22\level.h(143): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\zhukov_na\desktop\курсачище\project22\level.h(143): warning C4309: 'initializing': truncation of constant value
+c:\users\zhukov_na\desktop\курсачище\project22\tank.cpp(136): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\zhukov_na\desktop\курсачище\project22\tank.cpp(137): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\zhukov_na\desktop\курсачище\project22\tank.cpp(140): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\zhukov_na\desktop\курсачище\project22\tank.cpp(141): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\zhukov_na\desktop\курсачище\project22\tank.cpp(144): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\zhukov_na\desktop\курсачище\project22\tank.cpp(145): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\zhukov_na\desktop\курсачище\project22\tank.cpp(148): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\zhukov_na\desktop\курсачище\project22\tank.cpp(149): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  render.cpp
+c:\users\zhukov_na\desktop\курсачище\project22\render.cpp(88): warning C4477: 'printf' : format string '%c' requires an argument of type 'int', but variadic argument 1 has type 'ConsoleSymbolData'
+  main.cpp
+  gameObject.cpp
+c:\users\zhukov_na\desktop\курсачище\project22\level.h(36): warning C4309: 'initializing': truncation of constant value
+c:\users\zhukov_na\desktop\курсачище\project22\level.h(40): warning C4309: 'initializing': truncation of constant value
+c:\users\zhukov_na\desktop\курсачище\project22\level.h(131): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\zhukov_na\desktop\курсачище\project22\level.h(131): warning C4309: 'initializing': truncation of constant value
+c:\users\zhukov_na\desktop\курсачище\project22\level.h(137): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\zhukov_na\desktop\курсачище\project22\level.h(137): warning C4309: 'initializing': truncation of constant value
+c:\users\zhukov_na\desktop\курсачище\project22\level.h(143): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\zhukov_na\desktop\курсачище\project22\level.h(143): warning C4309: 'initializing': truncation of constant value
+  game.cpp
+c:\users\zhukov_na\desktop\курсачище\project22\level.h(36): warning C4309: 'initializing': truncation of constant value
+c:\users\zhukov_na\desktop\курсачище\project22\level.h(40): warning C4309: 'initializing': truncation of constant value
+c:\users\zhukov_na\desktop\курсачище\project22\level.h(131): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\zhukov_na\desktop\курсачище\project22\level.h(131): warning C4309: 'initializing': truncation of constant value
+c:\users\zhukov_na\desktop\курсачище\project22\level.h(137): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\zhukov_na\desktop\курсачище\project22\level.h(137): warning C4309: 'initializing': truncation of constant value
+c:\users\zhukov_na\desktop\курсачище\project22\level.h(143): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\zhukov_na\desktop\курсачище\project22\level.h(143): warning C4309: 'initializing': truncation of constant value
+c:\users\zhukov_na\desktop\курсачище\project22\game.cpp(30): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\zhukov_na\desktop\курсачище\project22\game.cpp(52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\zhukov_na\desktop\курсачище\project22\game.cpp(58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\zhukov_na\desktop\курсачище\project22\game.cpp(66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\zhukov_na\desktop\курсачище\project22\game.cpp(72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\zhukov_na\desktop\курсачище\project22\game.cpp(82): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\zhukov_na\desktop\курсачище\project22\game.cpp(92): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\zhukov_na\desktop\курсачище\project22\game.cpp(182): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\zhukov_na\desktop\курсачище\project22\game.cpp(183): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\zhukov_na\desktop\курсачище\project22\game.cpp(213): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  spawner.cpp
+c:\users\zhukov_na\desktop\курсачище\project22\level.h(36): warning C4309: 'initializing': truncation of constant value
+c:\users\zhukov_na\desktop\курсачище\project22\level.h(40): warning C4309: 'initializing': truncation of constant value
+c:\users\zhukov_na\desktop\курсачище\project22\level.h(131): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\zhukov_na\desktop\курсачище\project22\level.h(131): warning C4309: 'initializing': truncation of constant value
+c:\users\zhukov_na\desktop\курсачище\project22\level.h(137): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\zhukov_na\desktop\курсачище\project22\level.h(137): warning C4309: 'initializing': truncation of constant value
+c:\users\zhukov_na\desktop\курсачище\project22\level.h(143): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\zhukov_na\desktop\курсачище\project22\level.h(143): warning C4309: 'initializing': truncation of constant value
+  wall.cpp
+c:\users\zhukov_na\desktop\курсачище\project22\level.h(36): warning C4309: 'initializing': truncation of constant value
+c:\users\zhukov_na\desktop\курсачище\project22\level.h(40): warning C4309: 'initializing': truncation of constant value
+c:\users\zhukov_na\desktop\курсачище\project22\level.h(131): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\zhukov_na\desktop\курсачище\project22\level.h(131): warning C4309: 'initializing': truncation of constant value
+c:\users\zhukov_na\desktop\курсачище\project22\level.h(137): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\zhukov_na\desktop\курсачище\project22\level.h(137): warning C4309: 'initializing': truncation of constant value
+c:\users\zhukov_na\desktop\курсачище\project22\level.h(143): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\zhukov_na\desktop\курсачище\project22\level.h(143): warning C4309: 'initializing': truncation of constant value
+  utils.cpp
+c:\users\zhukov_na\desktop\курсачище\project22\utils.cpp(18): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  bullet.cpp
+c:\users\zhukov_na\desktop\курсачище\project22\level.h(36): warning C4309: 'initializing': truncation of constant value
+c:\users\zhukov_na\desktop\курсачище\project22\level.h(40): warning C4309: 'initializing': truncation of constant value
+c:\users\zhukov_na\desktop\курсачище\project22\level.h(131): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\zhukov_na\desktop\курсачище\project22\level.h(131): warning C4309: 'initializing': truncation of constant value
+c:\users\zhukov_na\desktop\курсачище\project22\level.h(137): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\zhukov_na\desktop\курсачище\project22\level.h(137): warning C4309: 'initializing': truncation of constant value
+c:\users\zhukov_na\desktop\курсачище\project22\level.h(143): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\zhukov_na\desktop\курсачище\project22\level.h(143): warning C4309: 'initializing': truncation of constant value
+  base.cpp
+c:\users\zhukov_na\desktop\курсачище\project22\level.h(36): warning C4309: 'initializing': truncation of constant value
+c:\users\zhukov_na\desktop\курсачище\project22\level.h(40): warning C4309: 'initializing': truncation of constant value
+c:\users\zhukov_na\desktop\курсачище\project22\level.h(131): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\zhukov_na\desktop\курсачище\project22\level.h(131): warning C4309: 'initializing': truncation of constant value
+c:\users\zhukov_na\desktop\курсачище\project22\level.h(137): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\zhukov_na\desktop\курсачище\project22\level.h(137): warning C4309: 'initializing': truncation of constant value
+c:\users\zhukov_na\desktop\курсачище\project22\level.h(143): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\zhukov_na\desktop\курсачище\project22\level.h(143): warning C4309: 'initializing': truncation of constant value
+  Generating Code...
+  Project22.vcxproj -> C:\Users\zhukov_na\Desktop\Курсачище\Debug\Project22.exe
+  Project22.vcxproj -> C:\Users\zhukov_na\Desktop\Курсачище\Debug\Project22.pdb (Partial PDB)
