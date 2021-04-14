@@ -1,0 +1,11 @@
+cat 1 > 2
+mkdir 12345
+cd 12345
+date > 1
+cd ..
+cat < 1 | grep a > 2
+((((cat 1) > 4) && cat 2 ) > 3) || cat
+cat < 1 | grep q > 5
+cat < 1 >> 5
+sleep 30 &
+exit
