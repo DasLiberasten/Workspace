@@ -1,0 +1,43 @@
+class IGraph {
+public:
+    virtual ~IGraph(){};
+    virtual size_t GetSize() = 0; - получить размер матрицы
+    virtual void SetSize(size_t) = 0; - установить размер матрицы
+    virtual int FindMax() = 0; - нахождение максимального числа входящих исходящих ребер
+    virtual int GetVal(int,int) = 0; - получить значение в ячейке матрицы
+    virtual void SetEdge(int,int,int) = 0; - добавить ребро
+    virtual void RemoveEdge(int,int) = 0; - удалить ребро
+    virtual IteratorRow IterateRows(size_t) const = 0;
+    virtual IteratorRow EndRow(size_t) const = 0;
+    virtual IteratorColumn IterateColumns(size_t) const = 0;
+    virtual IteratorColumn EndColumn(size_t) const = 0;
+    virtual size_t FindDiam() const = 0; - диаметр
+};
+
+class IterableDenceMatrix: public IGraph {
+public:
+    int **Data; - матрица
+private:
+    size_t size; - размер матрицы
+};
+
+class IterableSparseMatrix : public IGraph {
+public:
+    Matrix *Data; - матрица
+
+private:
+    size_t size; - размер матрицы
+
+};
+
+class FinalMatrix : public IGraph{
+public:
+    void Sparce_to_dence(); - перегонки (при наполненность матрицы на 50% происходит перегонка в другой тип хранения)
+    void Dence_to_sparse();
+private:
+    IGraph *Matrix; - матрицы
+    bool type; - тип матрицы 0 - sparce, 1 - dence
+    size_t fullness; - заполненность матрицы
+
+При желании пользователь может создать матрицы неизменяемых типов
+При обращении за границы - возвращает -1
