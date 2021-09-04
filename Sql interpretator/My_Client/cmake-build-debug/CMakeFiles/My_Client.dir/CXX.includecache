@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nikita/CLionProjects/My_Client/Client.cpp
+Sock_client.h
+/home/nikita/CLionProjects/My_Client/Sock_client.h
+
+/home/nikita/CLionProjects/My_Client/Sock_client.h
+cstring
+-
+iostream
+-
+netdb.h
+-
+netinet/in.h
+-
+string
+-
+sys/socket.h
+-
+sys/types.h
+-
+sys/un.h
+-
+unistd.h
+-
+

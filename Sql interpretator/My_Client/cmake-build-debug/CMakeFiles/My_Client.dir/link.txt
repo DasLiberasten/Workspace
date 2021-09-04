@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/My_Client.dir/Client.cpp.o CMakeFiles/My_Client.dir/Sock_client.cpp.o  -o My_Client 
