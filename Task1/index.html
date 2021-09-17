@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8">
+  <title>Leacked Pentagon data</title>
+ </head>
+<body>
+<p><label>По Id:<br>
+<form action="http://localhost/by-id.php?id=$_POST['id']">
+<input name="id" type="text" value="">
+<input type="submit" value="Find" />
+</form>
+</label>
+</p>
+<p><label>По login:<br>
+<form action="http://localhost/by-login.php?login=$_POST['login']">
+<input name="login" type="text" value="">
+<input type="submit" value="Find" />
+</form>
+</label>
+</p>
+<p><label>Все активные пользователи:<br>
+<form action="http://localhost/users.php">
+<input type="submit" value="Find" />
+</form>
+</label>
+</p>
+</body>
+</html>
