@@ -1,0 +1,8 @@
+(library
+ (name MuLua_semantics)
+ (public_name mulua.semantics)
+ (libraries mulua.syntax mulua.total-map base)
+ (preprocess
+  (pps ppx_jane))
+ (instrumentation
+  (backend bisect_ppx)))

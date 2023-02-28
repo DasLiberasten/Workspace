@@ -1,0 +1,8 @@
+(library
+ (name MuLua_syntax)
+ (public_name mulua.syntax)
+ (libraries base)
+ (preprocess
+  (pps ppx_jane ppx_gen_rec))
+ (instrumentation
+  (backend bisect_ppx)))

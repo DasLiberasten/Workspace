@@ -1,0 +1,8 @@
+(library
+ (name TotalMap)
+ (public_name mulua.total-map)
+ (libraries base)
+ (preprocess
+  (pps ppx_jane ppx_compose))
+ (instrumentation
+  (backend bisect_ppx)))

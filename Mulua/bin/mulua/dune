@@ -1,0 +1,8 @@
+(executable
+ (name main)
+ (public_name mulua)
+ (libraries mulua.syntax mulua.parser mulua.semantics base stdio cmdliner)
+ (preprocess
+  (pps ppx_jane ppx_compose))
+ (instrumentation
+  (backend bisect_ppx)))

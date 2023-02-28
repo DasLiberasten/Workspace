@@ -1,0 +1,17 @@
+(library
+ (name MuLua_parser)
+ (public_name mulua.parser)
+ (libraries mulua.syntax base core sedlex menhirLib)
+ (preprocess
+  (pps ppx_jane ppx_compose sedlex.ppx))
+ (instrumentation
+  (backend bisect_ppx)))
+
+(menhir
+ (modules Tokens)
+ (flags --only-tokens))
+
+(menhir
+ (modules Grammar Tokens)
+ (flags --explain --external-tokens Tokens)
+ (merge_into Grammar))
